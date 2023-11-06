@@ -1,0 +1,10 @@
+base_link = "https://neatnovels.com/book/reverend-insanity/chapter-{}/"
+
+start = 180
+end = 182
+
+outfiledir = "/chps"
+outfileformat = "/chps/chp{}.pdf" # B will be added
+
+debug = false
+round_to = 3
